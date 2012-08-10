@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "rightscale": ">= 0.0.0"
+  },
+  "name": "iterm2",
+  "maintainer_email": "me@ryangeyer.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+    "max_os_x": ">= 0.0.0"
+  },
+  "maintainer": "Ryan J. Geyer",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "iterm2::install": "Downloads and installs iTerm2"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures iterm2",
+  "providing": {
+  }
+}

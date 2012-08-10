@@ -1,0 +1,1 @@
+default['iterm2']['download_uri'] = 'http://iterm2.googlecode.com/files/iTerm2_v1_0_0.zip'
