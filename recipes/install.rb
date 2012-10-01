@@ -25,6 +25,7 @@ end
 
 bash "Extract the iterm2 zip to the Applications directory" do
   code "unzip #{iterm2_zipfile} -d /Applications"
+  creates "/Applications/iTerm.app"
 end
 
 rightscale_marker :end
